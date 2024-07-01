@@ -1,3 +1,12 @@
+Pasos para poder ver esta aplicacion en tu laptop 
+
+instalar nextjs 
+instalar nodejs
+instalar mongodb
+
+configurar tailwindcss en VS Code y elegir mode lenguale , elegir tailwindcss
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
