@@ -1,5 +1,6 @@
 import Image from "next/image";
 import MenuItem from "@/app/components/Menu/MenuItem";
+import SectionHeaders from "@/app/components/layout/SectionHeaders";
 
 
 export default function HomeMenu() {
@@ -21,10 +22,10 @@ export default function HomeMenu() {
 
             <div className="text-center mb-4">
 
-               <SectionHeaders 
-               subHeader={'verificar menu'}
-               mainHeader={'menu'}
-               />
+                <SectionHeaders 
+                subHeader={'verificar menu'}
+                mainHeader={'menu'}
+                />
 
             </div>
 
@@ -43,3 +44,4 @@ export default function HomeMenu() {
         </section>
     );
 }
+

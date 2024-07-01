@@ -5,7 +5,7 @@ import Right from "@/app/components/layout/icons/Right"
 export default function Hero(){
     return(
 
-        <section className="sectionhero">
+        <section className="hero mt-4">
 
             <div className="py-12">
 
